@@ -4,7 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:areebsheikh317@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square\&logo=Instagram\&logoColor=white)](https://instagram.com/areeb_2k04)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&height=40&lines=Nice+to+e-meet+you!;I'm+a+Frontend+Developer;MERN+Stack+Developer;Cricket+Lover+🏏;Gaming+Enthusiast+🎮;Travel+Explorer+🌍)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&height=40&lines=Frontend+Developer;Turning+Coffee+into+Code+☕;Cricket+on+Weekends+🏏;Debugging+Life+😄)](https://git.io/typing-svg)
+
 The world can be overwhelming, so I help make people’s lives easier by building modern, responsive, and scalable web applications.
 
 <a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="200" align="right" alt="avatar"/></a>
