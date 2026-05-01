@@ -25,15 +25,15 @@ Let me tell you a bit about myself
 <h3>💻 GitHub Profile Stats</h3>
 <div style="display: flex;">
   <div>
-    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false" />
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=Areeb-Sheikh&show_icons=true&theme=radical&hide_border=false" />
   </div>
   <br/>
   <div>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeb-Sheikh&layout=compact&theme=radical" />
   </div>
 </div>
 
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 <b>Commit History:</b>
-[![Areeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Areeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeb-Sheikh\&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
