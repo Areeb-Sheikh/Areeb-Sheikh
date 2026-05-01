@@ -1,26 +1,91 @@
-# Hi, I'm Areeb Sheikh 👋
+<h1 align="center">Hi 👋, I'm Areeb Sheikh</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/areeb-sheikh-a55406247/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:areebsheikh317@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square\&logo=Instagram\&logoColor=white)](https://instagram.com/areeb_2k04)
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Engineer;Turning+Coffee+into+Code+☕;Cricket+Lover+🏏;Debugging+Life+😄" />
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&height=40&lines=Frontend+Developer;Turning+Coffee+into+Code+☕;Cricket+on+Weekends+🏏;Debugging+Life+😄)](https://git.io/typing-svg)
+---
 
-The world can be overwhelming, so I help make people’s lives easier by building modern, responsive, and scalable web applications.
+## 🌐 Connect With Me
 
-<a href="#"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" align="right"/></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/areeb-sheikh-a55406247/">
+    <img src="https://img.shields.io/badge/LinkedIn-Areeb%20Sheikh-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:areebsheikh317@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://instagram.com/areeb_2k04">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
 
-Let me tell you a bit about myself
+---
 
-* 🖥️ Currently working as a **Frontend Developer at ZirveSol (UAE - Remote)**
-* 🖨️ Experienced in **React.js, Node.js, Express.js, MERN Stack**
-* 🗄️ Worked with databases including **MongoDB & SQL Server**
-* 🧑‍💻 Strong skills in **HTML, CSS, JavaScript, WordPress, Elementor**
-* 🚀 Familiar with **Agile & Scrum workflows**
-* 🎮 Also experienced in **Game Development (Unity 2D/3D)**
-* 🎾 In my free time, I enjoy gaming and building creative tech projects
-* 🎓 BS Software Engineering (President & Dean’s Honor Roll)
-* 😄 Pronouns: He/him
+<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<b>Commit History:</b>
-[![Areeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeb-Sheikh\&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 🚀 About Me
+
+- 🖥️ Frontend Developer at **ZirveSol (UAE - Remote)**
+- ⚛️ Working with **React.js, Node.js, Express.js (MERN Stack)**
+- 🗄️ Databases: **MongoDB & SQL Server**
+- 🎨 Skilled in **HTML, CSS, JavaScript, WordPress, Elementor**
+- 🔁 Experience with **Agile & Scrum**
+- 🎮 Game Dev (Unity 2D/3D)
+- 🎓 BS Software Engineering (🏆 President & Dean’s Honor Roll)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sql,wordpress,unity,git,github,vscode" />
+
+</p>
+
+---
+
+## 📊 GitHub Stats (Animated)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Areeb-Sheikh&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-Sheikh&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeb-Sheikh&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Random Dev Quote (Auto Changing)
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Areeb-Sheikh/Areeb-Sheikh/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> “Code is like cricket 🏏 — timing matters!”
+
+---
+
+<h3 align="center">🚀 Let's Build Something Amazing Together!</h3>
