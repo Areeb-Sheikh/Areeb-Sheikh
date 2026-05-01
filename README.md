@@ -1,91 +1,46 @@
-<h1 align="center">Hi 👋, I'm Areeb Sheikh</h1>
+<!-- 🌊 Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Areeb%20Sheikh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Engineer;Turning+Coffee+into+Code+☕;Cricket+Lover+🏏;Debugging+Life+😄" />
-</h3>
+<!-- 👋 Typing Animation -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Areeb+Sheikh+👋;Frontend+Developer;MERN+Stack+Engineer;Building+Modern+Web+Apps;Coffee+☕+→+Code;Cricket+🏏+Lover" />
+</h1>
 
 ---
 
-## 🌐 Connect With Me
-
+<!-- 🌐 Socials -->
 <p align="center">
   <a href="https://www.linkedin.com/in/areeb-sheikh-a55406247/">
-    <img src="https://img.shields.io/badge/LinkedIn-Areeb%20Sheikh-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Areeb-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:areebsheikh317@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://instagram.com/areeb_2k04">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram" />
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/>
   </a>
 </p>
 
 ---
 
-<img align="right" height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<!-- 🌀 Divider -->
+<img src="https://user-images.githubusercontent.com/74038190/212284103-3c0c5c1f-2c9d-4c0e-9f2b-1db4c2dbb0b2.gif">
+
+---
 
 ## 🚀 About Me
 
-- 🖥️ Frontend Developer at **ZirveSol (UAE - Remote)**
-- ⚛️ Working with **React.js, Node.js, Express.js (MERN Stack)**
-- 🗄️ Databases: **MongoDB & SQL Server**
-- 🎨 Skilled in **HTML, CSS, JavaScript, WordPress, Elementor**
-- 🔁 Experience with **Agile & Scrum**
-- 🎮 Game Dev (Unity 2D/3D)
-- 🎓 BS Software Engineering (🏆 President & Dean’s Honor Roll)
+<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,sql,wordpress,unity,git,github,vscode" />
-
-</p>
-
----
-
-## 📊 GitHub Stats (Animated)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Areeb-Sheikh&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeb-Sheikh&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Areeb-Sheikh&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🧠 Random Dev Quote (Auto Changing)
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Areeb-Sheikh/Areeb-Sheikh/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> “Code is like cricket 🏏 — timing matters!”
-
----
-
-<h3 align="center">🚀 Let's Build Something Amazing Together!</h3>
+```javascript
+const areeb = {
+  role: "Frontend Developer",
+  company: "ZirveSol (UAE - Remote)",
+  techStack: ["React", "Node.js", "Express", "MongoDB"],
+  skills: ["HTML", "CSS", "JavaScript", "WordPress", "Elementor"],
+  tools: ["Git", "VS Code", "Unity"],
+  hobbies: ["Gaming 🎮", "Cricket 🏏", "Creative Projects"],
+  motto: "Turning ideas into real-world products 🚀"
+};
