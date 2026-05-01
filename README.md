@@ -1,46 +1,27 @@
-<!-- 🌊 Animated Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=220&section=header&text=Areeb%20Sheikh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
+# Hi, I'm Areeb Sheikh 👋
 
-<!-- 👋 Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=2500&pause=1000&color=00C9FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Areeb+Sheikh+👋;Frontend+Developer;MERN+Stack+Engineer;Building+Modern+Web+Apps;Coffee+☕+→+Code;Cricket+🏏+Lover" />
-</h1>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/areeb-sheikh-a55406247/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:areebsheikh317@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square\&logo=Instagram\&logoColor=white)](https://instagram.com/areeb_2k04)
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&height=40&lines=Frontend+Developer;Turning+Coffee+into+Code+☕;Cricket+on+Weekends+🏏;Debugging+Life+😄)](https://git.io/typing-svg)
 
-<!-- 🌐 Socials -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/areeb-sheikh-a55406247/">
-    <img src="https://img.shields.io/badge/LinkedIn-Areeb-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:areebsheikh317@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Mail-red?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://instagram.com/areeb_2k04">
-    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=for-the-badge&logo=instagram"/>
-  </a>
-</p>
+The world can be overwhelming, so I help make people’s lives easier by building modern, responsive, and scalable web applications.
 
----
+<a href="#"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" align="right"/></a>
 
-<!-- 🌀 Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284103-3c0c5c1f-2c9d-4c0e-9f2b-1db4c2dbb0b2.gif">
+Let me tell you a bit about myself
 
----
+* 🖥️ Currently working as a **Frontend Developer at ZirveSol (UAE - Remote)**
+* 🖨️ Experienced in **React.js, Node.js, Express.js, MERN Stack**
+* 🗄️ Worked with databases including **MongoDB & SQL Server**
+* 🧑‍💻 Strong skills in **HTML, CSS, JavaScript, WordPress, Elementor**
+* 🚀 Familiar with **Agile & Scrum workflows**
+* 🎮 Also experienced in **Game Development (Unity 2D/3D)**
+* 🎾 In my free time, I enjoy gaming and building creative tech projects
+* 🎓 BS Software Engineering (President & Dean’s Honor Roll)
+* 😄 Pronouns: He/him
 
-## 🚀 About Me
+<b>Commit History:</b>
+[![Areeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeb-Sheikh\&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img align="right" height="260" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-```javascript
-const areeb = {
-  role: "Frontend Developer",
-  company: "ZirveSol (UAE - Remote)",
-  techStack: ["React", "Node.js", "Express", "MongoDB"],
-  skills: ["HTML", "CSS", "JavaScript", "WordPress", "Elementor"],
-  tools: ["Git", "VS Code", "Unity"],
-  hobbies: ["Gaming 🎮", "Cricket 🏏", "Creative Projects"],
-  motto: "Turning ideas into real-world products 🚀"
-};
