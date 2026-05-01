@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Areeb Sheikh 👋
 
-<!--
-**Areeb-Sheikh/Areeb-Sheikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square\&logo=Linkedin\&logoColor=white)](https://www.linkedin.com/in/areeb-sheikh-a55406247/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square\&logo=Gmail\&logoColor=white)](mailto:areebsheikh317@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square\&logo=Instagram\&logoColor=white)](https://instagram.com/areeb_2k04)
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa\&size=25\&height=40\&lines=Nice+to+e-meet+you!;I'm+a+Frontend+Developer;MERN+Stack+Developer;React+Lover+⚛️)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The world can be overwhelming, so I help make people’s lives easier by building modern, responsive, and scalable web applications.
+
+<a href="#"><img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="200" align="right" alt="avatar"/></a>
+
+Let me tell you a bit about myself
+
+* 🖥️ Currently working as a **Frontend Developer at ZirveSol (UAE - Remote)**
+* 🖨️ Experienced in **React.js, Node.js, Express.js, MERN Stack**
+* 🗄️ Worked with databases including **MongoDB & SQL Server**
+* 🧑‍💻 Strong skills in **HTML, CSS, JavaScript, WordPress, Elementor**
+* 🚀 Familiar with **Agile & Scrum workflows**
+* 🎮 Also experienced in **Game Development (Unity 2D/3D)**
+* 🎾 In my free time, I enjoy gaming and building creative tech projects
+* 🎓 BS Software Engineering (President & Dean’s Honor Roll)
+* 😄 Pronouns: He/him
+
+<h3>💻 GitHub Profile Stats</h3>
+<div style="display: flex;">
+  <div>
+    <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false" />
+  </div>
+  <br/>
+  <div>
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  </div>
+</div>
+
+<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<b>Commit History:</b>
+[![Areeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME\&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
