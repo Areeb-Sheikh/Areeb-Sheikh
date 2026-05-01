@@ -8,7 +8,7 @@
 
 The world can be overwhelming, so I help make people’s lives easier by building modern, responsive, and scalable web applications.
 
-<a href="#"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300" align="right" /></a>
+<a href="#"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" align="right" /></a>
 
 Let me tell you a bit about myself
 
