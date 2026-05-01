@@ -8,7 +8,7 @@
 
 The world can be overwhelming, so I help make people’s lives easier by building modern, responsive, and scalable web applications.
 
-<a href="#"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Areeb%20Sheikh&fontSize=40&fontColor=ffffff" /></a>
+<a href="#"><img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" align="right"/></a>
 
 Let me tell you a bit about myself
 
