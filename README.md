@@ -23,4 +23,4 @@ Let me tell you a bit about myself
 * 😄 Pronouns: He/him
 
 <b>Commit History:</b>
-[![Areeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeb473\&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Areeb's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Areeb-Sheikh\&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
