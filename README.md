@@ -12,7 +12,7 @@ The world can be overwhelming, so I help make people’s lives easier by buildin
 
 Let me tell you a bit about myself
 
-* 🖥️ Currently working as a **Frontend Developer at ZirveSol (UAE - Remote)**
+* 🖥️ Currently working as a **Software Developer at ZirveSol (UAE - Remote)**
 * 🖨️ Experienced in **React.js, Node.js, Express.js, MERN Stack**
 * 🗄️ Worked with databases including **MongoDB & SQL Server**
 * 🧑‍💻 Strong skills in **HTML, CSS, JavaScript, WordPress, Elementor**
