@@ -1,30 +1,98 @@
 # Hi, I'm Areeb Sheikh 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/areeb-sheikh-a55406247/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:areebsheikh317@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/areeb_2k04)
-
-[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://my-portfolio-website-ashen-ten.vercel.app/)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&size=25&height=40&lines=Frontend+Developer;Turning+Coffee+into+Code+☕;Cricket+on+Weekends+🏏;Debugging+Life+😄)](https://git.io/typing-svg)
-
-The world can be overwhelming, so I help make people’s lives easier by building modern, responsive, and scalable web applications.
-
-<a href="#"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" align="right" /></a>
-
-## 🚀 About Me
-
-* 🖥️ Currently working as a **Software Developer at ZirveSol (UAE - Remote)**
-* 🖨️ Experienced in **React.js, Node.js, Express.js, MERN Stack**
-* 🗄️ Worked with databases including **MongoDB & SQL Server**
-* 🧑‍💻 Strong skills in **HTML, CSS, JavaScript, WordPress, Elementor**
-* 🚀 Familiar with **Agile & Scrum workflows**
-* 🎮 Also experienced in **Game Development (Unity 2D/3D)**
-* 🎾 In my free time, I enjoy gaming and building creative tech projects
-* 🎓 BS Software Engineering (President & Dean’s Honor Roll)
-* 😄 Pronouns: He/him
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&size=28&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Frontend+Developer+💻;MERN+Stack+Engineer+🚀;Turning+Ideas+into+Reality+✨;Code.+Create.+Innovate." />
+</p>
 
 ---
 
-### 🌐 Portfolio
-👉 https://my-portfolio-website-ashen-ten.vercel.app/
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/areeb-sheikh-a55406247/">
+    <img src="https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:areebsheikh317@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/areeb_2k04">
+    <img src="https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🌐 Enter My Digital World 🚀
+
+<p align="center">
+  <a href="https://my-portfolio-website-ashen-ten.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Explore_My_Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  ⚡ Built with passion, powered by coffee ☕, and optimized for performance 💻  
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+* 🖥️ Software Developer at **ZirveSol (UAE - Remote)**
+* 🚀 MERN Stack Developer (React, Node, Express)
+* 🗄️ MongoDB & SQL Server
+* 🎨 HTML, CSS, JavaScript, WordPress, Elementor
+* ⚙️ Agile & Scrum workflows
+* 🎮 Unity Game Development (2D/3D)
+* 🎓 BS Software Engineering (President & Dean’s Honor Roll)
+* 😄 Pronouns: He/Him
+
+---
+
+## ⚒️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,html,css,wordpress,unity,git,github" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 What I Do
+
+* Build modern, responsive web apps
+* Optimize performance & UX
+* Create scalable backend systems
+* Turn ideas into real-world products
+
+---
+
+## 🎯 Fun Zone
+
+<p align="center">
+  🏏 Cricket Lover | 🎮 Gamer | ☕ Coffee Addict  
+</p>
+
+---
+
+## 🚀 Quote I Live By
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>  
+</p>
+
+---
+
+<p align="center">
+  ⭐ From <b>Areeb Sheikh</b> — Let's build something amazing together!
+</p>
