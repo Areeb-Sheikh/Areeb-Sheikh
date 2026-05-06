@@ -1,7 +1,7 @@
 # Hi, I'm Areeb Sheikh 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&size=28&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Frontend+Developer+💻;MERN+Stack+Engineer+🚀;Turning+Ideas+into+Reality+✨;Code.+Create.+Innovate." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=comfortaa&size=28&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Software+Developer+💻;MERN+Stack+Engineer+🚀;Turning+Ideas+into+Reality+✨;Code.+Create.+Innovate." />
 </p>
 
 ---
